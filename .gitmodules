@@ -1,0 +1,3 @@
+[submodule "emotiondetection"]
+	path = emotiondetection
+	url = https://github.com/shreyanithin/Emotion-detection-website.git
