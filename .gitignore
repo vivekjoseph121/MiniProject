@@ -5,7 +5,6 @@ archive (3)/
 processed_data/
 
 # Python files
-preprocessing.py
 __pycache__/
 *.py[cod]
 *$py.class
@@ -21,4 +20,4 @@ env/
 
 # OS generated files
 .DS_Store
-Thumbs.db 
+Thumbs.db
